@@ -2,3 +2,6 @@ orange
 apple
 strawberry
 mango
+guava
+strawberry
+watermelon
